@@ -1,0 +1,6 @@
+# install4j response file for Liquibase 4.3.1
+liquibase.addToPath$Boolean=true
+liquibase.openInstallDirectory$Boolean=true
+sys.adminRights$Boolean=true
+sys.installationDir=/usr/local/opt/liquibase
+sys.languageId=en
